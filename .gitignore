@@ -18,3 +18,4 @@ Thumbs.db
 *.yml
 !.github/**/*.yml
 .claude/settings.local.json
+.serena/
