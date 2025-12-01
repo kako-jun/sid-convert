@@ -17,3 +17,4 @@ Thumbs.db
 *.yaml
 *.yml
 !.github/**/*.yml
+.claude/settings.local.json
